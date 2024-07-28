@@ -5,6 +5,12 @@ from flask_socketio import SocketIO, emit
 from io import BytesIO
 from langdetect import detect
 
+# Set up OpenAI API
+openai.api_key = 'YOUR_API_KEY'  # Replace with your actual OpenAI API key
+
+# Eleven Labs API details
+XI_API_KEY = "YOUR_API_KEY"  # Replace with your Eleven Labs API key
+VOICE_ID = "YOUR_VOICE_ID"  # Replace with your voice ID from Eleven Labs
 app = Flask(__name__)
 socketio = SocketIO(app, async_mode='eventlet')
 
@@ -36,7 +42,7 @@ def text_to_speech(text):
     
     headers = {
         "Accept": "application/json",
-        # "xi-api-key": XI_API_KEY
+        "xi-api-key": XI_API_KEY
     }
     
     data = {
