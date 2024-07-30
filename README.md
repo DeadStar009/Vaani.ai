@@ -1,4 +1,3 @@
-
 # Vaani.ai
 
 ## Table of Contents
@@ -51,7 +50,7 @@ Watch the following videos to see Vaani.ai in action:
 [![Introduction Video](assets/videos/intro-thumbnail.png)](https://github.com/user-attachments/assets/46b865b3-7ae8-418f-9ba4-e0a03ef74637)
 *Introduction Video*
 
-[![Feature Demonstration](assets/videos/feature-demo-thumbnail.png)](assets/videos/site.mp4)
+[![Feature Demonstration](assets/videos/feature-demo-thumbnail.png)](https://github.com/user-attachments/assets/12b13c61-90c5-4e6f-a660-da6731a1f89d)
 *Feature Demonstration*
 
 ## Contributing
