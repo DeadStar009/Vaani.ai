@@ -53,10 +53,10 @@ Here are some screenshots showcasing the main features of Vaani.ai:
 
 Watch the following videos to see Vaani.ai in action:
 
-[![Introduction Video](https://github.com/DeadStar009/Vaani.ai/blob/main/assets/videos/vaani.ai%20-%20Communication%20Made%20Easy%20%E2%80%94%20Mozilla%20Firefox%202024-07-30%2020-44-17.mp4)]
+[![Introduction Video](assets/videos/feature-demo-thumbnail.png)](assets/videos/homepage.mp4)
 *Introduction Video*
 
-[![Feature Demonstration](assets/videos/feature-demo-thumbnail.png)](https://github.com/DeadStar009/Vaani.ai/blob/main/assets/videos/site.mp4)
+[![Feature Demonstration](assets/videos/feature-demo-thumbnail.png)](assets/videos/site.mp4)
 *Feature Demonstration*
 
 ## Contributing
