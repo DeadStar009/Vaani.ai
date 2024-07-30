@@ -1,12 +1,11 @@
-# Vaani.ai
 
+# Vaani.ai
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Videos](#videos)
 - [Contributing](#contributing)
@@ -27,7 +26,6 @@ Vaani.ai is an advanced AI-driven platform designed to enhance user interaction 
 
 To get a local copy up and running, follow these simple steps.
 
-
 ### Installation Steps
 
 1. **Clone the repository:**
@@ -39,7 +37,6 @@ To get a local copy up and running, follow these simple steps.
    cd Vaani.ai
    ```
 
-
 ## Screenshots
 
 Here are some screenshots showcasing the main features of Vaani.ai:
@@ -47,13 +44,11 @@ Here are some screenshots showcasing the main features of Vaani.ai:
 ![Home Page](https://github.com/DeadStar009/Vaani.ai/blob/main/assets/static/Screenshot%202024-07-30%20210640.png)
 *Home Page*
 
-
-
 ## Videos
 
 Watch the following videos to see Vaani.ai in action:
 
-[![Introduction Video](assets/videos/feature-demo-thumbnail.png)](assets/videos/homepage.mp4)
+[![Introduction Video](assets/videos/intro-thumbnail.png)](https://github.com/user-attachments/assets/46b865b3-7ae8-418f-9ba4-e0a03ef74637)
 *Introduction Video*
 
 [![Feature Demonstration](assets/videos/feature-demo-thumbnail.png)](assets/videos/site.mp4)
@@ -80,14 +75,16 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:harsh009nx@gmail.com)
+Your Name - [harsh009nx@gmail.com](mailto:harsh009nx@gmail.com)
 
 Project Link: [https://github.com/DeadStar009/Vaani.ai](https://github.com/DeadStar009/Vaani.ai)
 
 ---
 
 Feel free to further personalize the README with more specific details about your project as needed.
+
+---
