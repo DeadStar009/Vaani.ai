@@ -1,6 +1,5 @@
 # Vaani.ai
 
-![Vaani.ai Logo](assets/logo.png)
 
 ## Table of Contents
 
@@ -16,11 +15,11 @@
 
 ## Introduction
 
-Vaani.ai is an advanced AI-driven platform designed to enhance user interaction and automate tasks efficiently. This project aims to provide seamless integration with various services and deliver top-notch user experiences through intelligent automation.
+Vaani.ai is an advanced AI-driven platform designed to enhance user interaction and automate speech translation. This project aims to provide seamless integration with various services and deliver top-notch user experiences through intelligent automation.
 
 ## Features
 
-- **User Interaction Automation**: Streamlines user interactions with intelligent responses.
+- **User Interaction Automation**: Streamlines user interactions with intelligent speech recognition and response system.
 - **Service Integration**: Easily integrates with multiple services for enhanced functionality.
 - **Scalable Architecture**: Built to handle high volumes of requests seamlessly.
 
@@ -28,10 +27,6 @@ Vaani.ai is an advanced AI-driven platform designed to enhance user interaction 
 
 To get a local copy up and running, follow these simple steps.
 
-### Prerequisites
-
-- Node.js (version 14 or higher)
-- npm (version 6 or higher)
 
 ### Installation Steps
 
@@ -43,34 +38,13 @@ To get a local copy up and running, follow these simple steps.
    ```sh
    cd Vaani.ai
    ```
-3. **Install dependencies:**
-   ```sh
-   npm install
-   ```
 
-## Usage
-
-To start the development server and run the project locally, use the following command:
-
-```sh
-npm start
-```
-
-This command will start the development server, and you can view the project in your browser at `http://localhost:3000`.
-
-For production builds, use:
-
-```sh
-npm run build
-```
-
-This command will create an optimized build of the project in the `build` directory.
 
 ## Screenshots
 
 Here are some screenshots showcasing the main features of Vaani.ai:
 
-![Home Page](assets/screenshots/home.png)
+![Home Page]()
 *Home Page*
 
 ![Dashboard](assets/screenshots/dashboard.png)
