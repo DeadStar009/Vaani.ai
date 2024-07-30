@@ -44,20 +44,19 @@ To get a local copy up and running, follow these simple steps.
 
 Here are some screenshots showcasing the main features of Vaani.ai:
 
-![Home Page]()
+![Home Page](https://github.com/DeadStar009/Vaani.ai/blob/main/assets/static/Screenshot%202024-07-30%20210640.png)
 *Home Page*
 
-![Dashboard](assets/screenshots/dashboard.png)
-*Dashboard*
+
 
 ## Videos
 
 Watch the following videos to see Vaani.ai in action:
 
-[![Introduction Video](assets/videos/intro-thumbnail.png)](assets/videos/intro.mp4)
+[![Introduction Video](https://github.com/DeadStar009/Vaani.ai/blob/main/assets/videos/vaani.ai%20-%20Communication%20Made%20Easy%20%E2%80%94%20Mozilla%20Firefox%202024-07-30%2020-44-17.mp4)]
 *Introduction Video*
 
-[![Feature Demonstration](assets/videos/feature-demo-thumbnail.png)](assets/videos/feature-demo.mp4)
+[![Feature Demonstration](assets/videos/feature-demo-thumbnail.png)](https://github.com/DeadStar009/Vaani.ai/blob/main/assets/videos/site.mp4)
 *Feature Demonstration*
 
 ## Contributing
@@ -85,7 +84,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:your.email@example.com)
+Your Name - [Your Email](mailto:harsh009nx@gmail.com)
 
 Project Link: [https://github.com/DeadStar009/Vaani.ai](https://github.com/DeadStar009/Vaani.ai)
 
